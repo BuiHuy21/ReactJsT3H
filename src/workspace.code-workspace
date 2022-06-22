@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:\\ReactYT"
+		},
+		{
+			"path": "D:\\ReactYT\\reactjs-2203"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

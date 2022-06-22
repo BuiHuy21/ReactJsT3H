@@ -1,0 +1,30 @@
+git init-git git add .  commit -m --passter cau lenh tren git ---git push origin master  day code len github
+chechking prop type  // check kieu du lieu can truyen vao props
+gan gia tri mac dinh cho prop default values
+dung arow funtion de handle event
+event.preventDefault() để chặn submit
+render nhiều dữ liệu trong object ta dung hàm map() với arowfuntion
+dùng toán tử 3 ngôi để sử lí điều kiện
+30 33 18
+withRouter this.prop.history.push("/todo") su dung componentdidmout  export defaul withRowter(Home)  (dung de chuyen trang )
+higher order components  : HOC random màu
+back lại trang 37
+ //props-type: dung de kiem tra gia tri truyen vao(npm i prop-types)
+ ---ButtonComponent.propTypes = {  // dung de kiem tra gia tri truyen vao
+    className: PropTypes.string,
+    type: PropTypes.string,
+    name: PropTypes.string.isRequired,
+    click: PropTypes.func.isRequired,
+}
+
+gan gia tri mac dinh cho prop dung defaultProp
+----
+ButtonComponent.defaultProps = {
+    //gan gia tri mac dinh cho props
+    name: 'increment'
+}
+setState luon truyen ve 1 object
+components cha se quan ly toan bo state va cac components con chi hien thi render ra giao dien.
+useLocation hook dung de danh dau router
+npm i react-slugify
+slugifi-tham so truyen tren url

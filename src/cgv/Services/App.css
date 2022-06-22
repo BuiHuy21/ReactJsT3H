@@ -1,0 +1,21 @@
+.site-layout-content {
+     min-height: 280px;
+     padding: 24px;
+     background: #fff;
+   }
+   
+   .logo {
+     float: left;
+     width: 150px;
+     height: 31px;
+     margin: 16px 24px 16px 0;
+     background: rgba(0, 255, 26, 0.3);
+   }
+   .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected, .ant-menu.ant-menu-dark .ant-menu-item-selected {
+    background-color: #00a7bd;
+  }
+   .ant-menu-dark.ant-menu-horizontal>.ant-menu-item:hover {
+    background-color: #03e0bc;
+
+    
+}

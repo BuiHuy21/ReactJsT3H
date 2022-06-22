@@ -1,0 +1,22 @@
+.done-active{
+    text-decoration: line-through;
+    color:green;
+}
+
+.item-todo{
+    display: none;
+}
+
+.item-todo.item-all{
+    display: block;
+
+
+}
+
+.item-todo.item-true.show-true{
+    display: block;
+}
+
+.item-todo.item-false.show-false{
+    display: block;
+}
